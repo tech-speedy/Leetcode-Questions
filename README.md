@@ -27,5 +27,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/tech-speedy/Leetcode-Questions/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/tech-speedy/Leetcode-Questions/tree/master/0141-linked-list-cycle) |
+## Array
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/tech-speedy/Leetcode-Questions/tree/master/0075-sort-colors) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/tech-speedy/Leetcode-Questions/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
