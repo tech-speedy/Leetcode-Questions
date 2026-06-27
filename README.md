@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/tech-speedy/Leetcode-Questions/tree/master/0141-linked-list-cycle) |
+| [0217-contains-duplicate](https://github.com/tech-speedy/Leetcode-Questions/tree/master/0217-contains-duplicate) |
 ## Two Pointers
 |  |
 | ------- |
@@ -33,8 +34,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/tech-speedy/Leetcode-Questions/tree/master/0075-sort-colors) |
+| [0217-contains-duplicate](https://github.com/tech-speedy/Leetcode-Questions/tree/master/0217-contains-duplicate) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/tech-speedy/Leetcode-Questions/tree/master/0075-sort-colors) |
+| [0217-contains-duplicate](https://github.com/tech-speedy/Leetcode-Questions/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
