@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/tech-speedy/Leetcode-Questions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/tech-speedy/Leetcode-Questions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/tech-speedy/Leetcode-Questions/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/tech-speedy/Leetcode-Questions/tree/master/0347-top-k-frequent-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -44,22 +45,38 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/tech-speedy/Leetcode-Questions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/tech-speedy/Leetcode-Questions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/tech-speedy/Leetcode-Questions/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/tech-speedy/Leetcode-Questions/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/tech-speedy/Leetcode-Questions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/tech-speedy/Leetcode-Questions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/tech-speedy/Leetcode-Questions/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/tech-speedy/Leetcode-Questions/tree/master/0347-top-k-frequent-elements) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/tech-speedy/Leetcode-Questions/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/tech-speedy/Leetcode-Questions/tree/master/0347-top-k-frequent-elements) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/tech-speedy/Leetcode-Questions/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/tech-speedy/Leetcode-Questions/tree/master/0347-top-k-frequent-elements) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/tech-speedy/Leetcode-Questions/tree/master/0231-power-of-two) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/tech-speedy/Leetcode-Questions/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/tech-speedy/Leetcode-Questions/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/tech-speedy/Leetcode-Questions/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
