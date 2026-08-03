@@ -7,9 +7,9 @@ class Solution:
         while j >= 0:
             if i < 0 or nums2[j] > nums1[i]:
                 nums1[k] = nums2[j]
-                k -= 1
-                j -= 1
+                k = k - 1
+                j = j - 1
             else:
                 nums1[k] = nums1[i]
-                k -= 1
-                i -= 1
+                k = k - 1
+                i = i - 1
