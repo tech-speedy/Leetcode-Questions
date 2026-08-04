@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/tech-speedy/Leetcode-Questions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0844-backspace-string-compare](https://github.com/tech-speedy/Leetcode-Questions/tree/master/0844-backspace-string-compare) |
 | [0905-sort-array-by-parity](https://github.com/tech-speedy/Leetcode-Questions/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/tech-speedy/Leetcode-Questions/tree/master/0922-sort-array-by-parity-ii) |
 ## Array
 |  |
 | ------- |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/tech-speedy/Leetcode-Questions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/tech-speedy/Leetcode-Questions/tree/master/0503-next-greater-element-ii) |
 | [0905-sort-array-by-parity](https://github.com/tech-speedy/Leetcode-Questions/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/tech-speedy/Leetcode-Questions/tree/master/0922-sort-array-by-parity-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/tech-speedy/Leetcode-Questions/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/tech-speedy/Leetcode-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0905-sort-array-by-parity](https://github.com/tech-speedy/Leetcode-Questions/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/tech-speedy/Leetcode-Questions/tree/master/0922-sort-array-by-parity-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
