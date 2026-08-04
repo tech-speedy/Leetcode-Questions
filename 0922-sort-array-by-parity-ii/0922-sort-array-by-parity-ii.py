@@ -10,7 +10,7 @@ class Solution:
                 o = o + 2
             if e < n and o < n:
                 nums[e], nums[o] = nums[o], nums[e]
-                e = e + 2
-                o = o + 2
+            e = e + 2
+            o = o + 2
 
         return nums
