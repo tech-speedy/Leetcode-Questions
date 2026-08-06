@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/tech-speedy/Leetcode-Questions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/tech-speedy/Leetcode-Questions/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/tech-speedy/Leetcode-Questions/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/tech-speedy/Leetcode-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/tech-speedy/Leetcode-Questions/tree/master/0496-next-greater-element-i) |
 | [1122-relative-sort-array](https://github.com/tech-speedy/Leetcode-Questions/tree/master/1122-relative-sort-array) |
 ## Two Pointers
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/tech-speedy/Leetcode-Questions/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/tech-speedy/Leetcode-Questions/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/tech-speedy/Leetcode-Questions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0349-intersection-of-two-arrays](https://github.com/tech-speedy/Leetcode-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0844-backspace-string-compare](https://github.com/tech-speedy/Leetcode-Questions/tree/master/0844-backspace-string-compare) |
 | [0905-sort-array-by-parity](https://github.com/tech-speedy/Leetcode-Questions/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/tech-speedy/Leetcode-Questions/tree/master/0922-sort-array-by-parity-ii) |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/tech-speedy/Leetcode-Questions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/tech-speedy/Leetcode-Questions/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/tech-speedy/Leetcode-Questions/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/tech-speedy/Leetcode-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/tech-speedy/Leetcode-Questions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/tech-speedy/Leetcode-Questions/tree/master/0503-next-greater-element-ii) |
 | [0905-sort-array-by-parity](https://github.com/tech-speedy/Leetcode-Questions/tree/master/0905-sort-array-by-parity) |
@@ -81,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/tech-speedy/Leetcode-Questions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/tech-speedy/Leetcode-Questions/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/tech-speedy/Leetcode-Questions/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/tech-speedy/Leetcode-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0905-sort-array-by-parity](https://github.com/tech-speedy/Leetcode-Questions/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/tech-speedy/Leetcode-Questions/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/tech-speedy/Leetcode-Questions/tree/master/0977-squares-of-a-sorted-array) |
@@ -124,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/tech-speedy/Leetcode-Questions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/tech-speedy/Leetcode-Questions/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/tech-speedy/Leetcode-Questions/tree/master/0074-search-a-2d-matrix) |
+| [0349-intersection-of-two-arrays](https://github.com/tech-speedy/Leetcode-Questions/tree/master/0349-intersection-of-two-arrays) |
 ## Matrix
 |  |
 | ------- |
