@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/tech-speedy/Leetcode-Questions/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/tech-speedy/Leetcode-Questions/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/tech-speedy/Leetcode-Questions/tree/master/0231-power-of-two) |
+| [0412-fizz-buzz](https://github.com/tech-speedy/Leetcode-Questions/tree/master/0412-fizz-buzz) |
 ## Recursion
 |  |
 | ------- |
@@ -163,10 +164,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/tech-speedy/Leetcode-Questions/tree/master/0020-valid-parentheses) |
+| [0412-fizz-buzz](https://github.com/tech-speedy/Leetcode-Questions/tree/master/0412-fizz-buzz) |
 | [0844-backspace-string-compare](https://github.com/tech-speedy/Leetcode-Questions/tree/master/0844-backspace-string-compare) |
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/tech-speedy/Leetcode-Questions/tree/master/0412-fizz-buzz) |
 | [0844-backspace-string-compare](https://github.com/tech-speedy/Leetcode-Questions/tree/master/0844-backspace-string-compare) |
 ## Monotonic Stack
 |  |
