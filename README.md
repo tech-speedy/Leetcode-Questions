@@ -191,4 +191,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/tech-speedy/Leetcode-Questions/tree/master/0053-maximum-subarray) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/tech-speedy/Leetcode-Questions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
